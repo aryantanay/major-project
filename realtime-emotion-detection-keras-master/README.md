@@ -50,27 +50,6 @@ train.csv contains two columns, "emotion" and "pixels". The "emotion" column con
 ## Result:
 After training and evaluating the face-emotion detection model using Keras, the results reveal its remarkable capabilities. With a high accuracy level, the model demonstrates an ability to accurately detect and classify various emotions from facial expressions. This achievement not only showcases the power of deep learning algorithms but also opens up new avenues for emotion analysis in various fields.
 
-<table>
-	<thead>
-    <td>
-			<b>GIF</b>
-		</td>
-		<td>
-			<b>Neutral</b>
-		</td>
-		<td>
-			<b>Fear</b>
-    </td>
-	</thead>
-	<tr>
-		<td>
-			<img width="289" alt="code-one" src="https://github.com/bharat1611/realtime-emotion-detection-keras/assets/95923021/b7fbd979-2d37-4bd2-a470-15c532cc50e2">
-		</td>
-		<td>
-			<img width="306" alt="render-one" src="https://github.com/bharat1611/realtime-emotion-detection-keras/assets/95923021/78aa0431-3495-4d03-ad83-1dd167ec18c9">
-		</td>
-	</tr>
-</table>
 
 ## Future Work:
 The future of work in real-time face emotion detection using Keras is bright and full of potential. With its seamless integration of deep learning techniques, Keras empowers researchers and developers to create sophisticated models that accurately analyze and interpret human emotions.
