@@ -63,9 +63,6 @@ After training and evaluating the face-emotion detection model using Keras, the 
     </td>
 	</thead>
 	<tr>
-    <td>
-			<img width="400" alt="code-one" src="https://github.com/bharat1611/realtime-emotion-detection-keras/assets/95923021/32d54d1d-1fa9-4c98-9198-6e9646a6b897">
-		</td>
 		<td>
 			<img width="289" alt="code-one" src="https://github.com/bharat1611/realtime-emotion-detection-keras/assets/95923021/b7fbd979-2d37-4bd2-a470-15c532cc50e2">
 		</td>
